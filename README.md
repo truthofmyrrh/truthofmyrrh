@@ -1,4 +1,4 @@
-### Hi I'm sieun 👋 welcome to my github ☺
+### Hi I'm sieun 👋 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=truthofmyrrh&show_icons=true&theme=radical)
 <!--
 **truthofmyrrh/truthofmyrrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
