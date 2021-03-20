@@ -1,15 +1,8 @@
 ### Hi I'm sieun 👋 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=truthofmyrrh&show_icons=true&theme=outrun)
-<!--
-**truthofmyrrh/truthofmyrrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ajou university
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning data science & computer programming
 - 📫 How to reach me: dbtldm@ajou.ac.kr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I'm the only one who doesn't have a cat 🐈
