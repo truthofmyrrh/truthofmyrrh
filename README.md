@@ -7,4 +7,4 @@
 - 🔭 I’m currently working on ajou university
 - 🌱 I’m currently learning data science & computer programming
 - 📫 How to reach me: dbtldm@ajou.ac.kr
-- ⚡ Fun fact: I'm the only one who doesn't have a cat 🐈
+
